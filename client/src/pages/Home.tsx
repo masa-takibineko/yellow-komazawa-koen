@@ -276,9 +276,9 @@ export default function Home() {
                   01 CONCEPT
                 </p>
                 <h2 className="font-display text-5xl md:text-6xl mb-6">
-                  無機質な空間で、
+                  Inorganic spaceで、
                   <br />
-                  有機的な時間を。
+                  Organic timeを.
                 </h2>
               </div>
               <p className="text-lg text-muted-foreground font-elegant leading-relaxed">
