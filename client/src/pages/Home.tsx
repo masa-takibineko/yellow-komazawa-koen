@@ -291,7 +291,7 @@ export default function Home() {
                   営業時間
                 </p>
                 <p className="text-lg">8:00 - 18:00</p>
-                <p className="text-sm text-muted-foreground mt-2">毎週月曜 定休日</p>
+                <p className="text-sm text-muted-foreground mt-2">毎週木曜 定休日</p>
               </div>
             </motion.div>
           </motion.div>
@@ -473,7 +473,7 @@ export default function Home() {
                 04 ACCESS
               </p>
               <h2 className="font-display text-5xl md:text-6xl text-white mb-4">
-                訪ねてください
+                Please visit us
               </h2>
             </motion.div>
           </motion.div>
@@ -524,7 +524,7 @@ export default function Home() {
                   </p>
                   <p className="text-lg">8:00 - 18:00</p>
                   <p className="text-sm text-white/70 mt-2">
-                    毎週月曜 定休日
+                    毎週木曜 定休日
                   </p>
                 </div>
               </div>
